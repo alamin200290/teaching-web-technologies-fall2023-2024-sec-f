@@ -1,0 +1,12 @@
+<students>
+    <student sr="1">
+        <name> Al Amin </name>
+        <id> 123456 </id>
+        <email> alamin@aiub.edu</email>
+    </student>
+    <student sr="2">
+        <name>  </name>
+        <id> 123456 </id>
+        <email> alamin@aiub.edu</email>
+    </student>
+</students>
